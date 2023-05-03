@@ -5,9 +5,9 @@ This is a school project for data vizualisation
 
 
 <p align="center">
-  <img src="top5_music_genre.PNG">
+  <img src="top5_music_genre.png">
 </p>
 
 <p align="center">
-  <img src="top_5_artists.PNG">
+  <img src="top_5_artists.png">
 </p>
